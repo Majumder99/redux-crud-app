@@ -1,0 +1,11 @@
+1. Create store and provider in main.jsx
+2. Store will get all the actions and reducers for us
+3. We can use those from the other js files 
+4. Now creating the reducers in a new folder new file using createSlice method 
+5. In that file we need to write the reducers code
+
+flow: 
+main.jsx provider and store -> app.jsx dispatch userlist -> reducres file like features/Users.js
+ami asbo eshe main.jsx e dhukbo dhuke reducer er mddhe usrs nam er reducer porbo erpr ami jabo hocche oi reducerfile e and oikhan theke ja ache sb ami users er mddhe dhukabo then app.js renderhbe tkhn userElector er maddhome ami 
+state.users.value call kore ami sb initial vlaue pabo. dispatcher enne ami action pathate parbo.. 
+ar hocche reducer file e state and action access korte parbo
